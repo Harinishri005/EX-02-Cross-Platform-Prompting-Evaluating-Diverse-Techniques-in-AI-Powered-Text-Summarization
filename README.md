@@ -117,7 +117,7 @@ Chain-of-Thought Prompting This technique encourages the AI to reason step-by-st
 Role-Based Prompting Assigning the AI a persona—like “You are a helpful tutor” or “You are a sarcastic critic”—can shape tone, depth, and engagement. This is particularly effective in platforms with conversational memory or emotional intelligence. Copilot stands out here, offering nuanced responses that reflect the assigned role while maintaining clarity and coherence.
 
 
-## Table 2 – Comparative Evaluation of Platforms & Prompting Styles
+## Comparative Evaluation of Platforms & Prompting Styles
 
 <img width="470" height="717" alt="image" src="https://github.com/user-attachments/assets/c9ec82ba-2402-4264-b827-2cc908c129f3" />
 
